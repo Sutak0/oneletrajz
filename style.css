@@ -1,0 +1,17 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main{
+    max-width: 800px;
+    width: 100%;
+    margin: auto;
+    border:1px solid rgba(123, 154, 194, 0.300);
+    background-color: rgba(123, 154, 194, 0.300);
+}
+ img{
+     height:30%;
+     width: 30%;
+ }
+ li{
+     font-size: large;
+ }
